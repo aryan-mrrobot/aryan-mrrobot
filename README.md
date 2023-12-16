@@ -1,5 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
-<img align = "right" alt = "Hacking" width = "400" src = "https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg?size=626&ext=jpg&ga=GA1.1.254176962.1702741278&semt=ais">
+<img align = "right" alt = "Hacking" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 # Hello, I'm Aryan Rohit 👋
 
 ## 🚀 About Me
@@ -29,7 +29,6 @@ I am an ethical hacker and bug bounty hunter based in India. Passionate about cy
 - Security Auditing
 - Threat Modeling
 
-## 🎥 Animated GIF
 
 ![Hacking GIF](https://media.giphy.com/media/your-animated-gif-url.gif)
 
