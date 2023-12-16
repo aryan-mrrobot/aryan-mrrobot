@@ -1,4 +1,16 @@
-# Hello, I'm [Your Name] 👋
+<!-- Your Banner -->
+<div align="center">
+  <img src="https://www.shutterstock.com/image-photo/hooded-hackers-army-1350292424" width="100%">
+</div>
+
+<!-- Your Animated GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/your-animated-gif-url.gif" alt="Hacking GIF" width="50%">
+</div>
+
+
+
+# Hello, I'm Aryan Rohit 👋
 
 ## 🚀 About Me
 I am an ethical hacker and bug bounty hunter based in India. Passionate about cybersecurity, I love to explore and find vulnerabilities to contribute to a safer digital world.
@@ -10,7 +22,7 @@ I am an ethical hacker and bug bounty hunter based in India. Passionate about cy
 - 🔐 Network Security
 
 ## 🌐 TryHackMe Profile
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-YourProfile-brightgreen)](https://tryhackme.com/p/YourProfile)
+<img src="https://tryhackme-badges.s3.amazonaws.com/aryandevil1.png" alt="TryHackMe">
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
