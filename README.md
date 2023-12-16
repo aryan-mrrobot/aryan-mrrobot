@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/Ws6T5PN7wHv3cY8xy8/200w.webp?cid=ecf05e470clg5j15rqo98mie2d6kqyjw1cq4ni5dsr1p4063&ep=v1_gifs_search&rid=200w.webp&ct=g)]
+[![MasterHead](https://media1.giphy.com/media/YQitE4YNQNahy/200w.webp?cid=ecf05e47hdvtwolzh6151i4v670y3vn6zc7fb776g3zxkl1s&ep=v1_gifs_search&rid=200w.webp&ct=g)]
 <img align = "right" alt = "Hacking" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 # Hello, I'm Aryan Rohit 👋
 
