@@ -1,18 +1,39 @@
-[![masterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
-<h1 align="center">Hi 👋, I'm Aryan Rohit</h1>
-<h3 align="center">A passionate Ethical Hacker from India</h3>
-<img align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+# Hello, I'm [Your Name] 👋
 
+## 🚀 About Me
+I am an ethical hacker and bug bounty hunter based in India. Passionate about cybersecurity, I love to explore and find vulnerabilities to contribute to a safer digital world.
 
+## 💻 Tech Stack
+- 💼 Ethical Hacking
+- 🐞 Bug Bounty Hunting
+- 🌐 Web Application Security
+- 🔐 Network Security
 
-- 🌱 I’m currently learning **Privilege Escalation**
+## 🌐 TryHackMe Profile
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-YourProfile-brightgreen)](https://tryhackme.com/p/YourProfile)
 
-- 💬 Ask me about **Ethical Hacking,Bug Bounty**
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
-- 📫 How to reach me **aryanrohit9911@gmail.com**
+## 🛠️ Skills
+- Penetration Testing
+- Vulnerability Assessment
+- Code Review
+- Security Auditing
+- Threat Modeling
 
-<h3 align="left">Connect with me:</h3>
+## 🎥 Animated GIF
+![Hacking GIF](https://media.giphy.com/media/your-animated-gif-url.gif)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/aryandevil1.png" alt="TryHackMe">
+## 📫 Connect with Me
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
+- Blog: [Your Blog](https://yourblog.com)
 
-<iframe src="https://gifer.com/embed/1Dyu" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+## 🚧 Current Projects
+- Working on [Project Name](https://github.com/yourusername/projectname)
+- Exploring new techniques in [Technology/Tool Name](https://github.com/yourusername/technologyname)
+
+## 📢 Let's Collaborate!
+I'm always open to collaborating on cybersecurity projects and learning new things. If you have an exciting project or just want to connect, feel free to reach out!
+
