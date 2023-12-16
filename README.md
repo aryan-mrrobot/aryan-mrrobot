@@ -1,6 +1,6 @@
 <!-- Your Banner -->
 <div align="center">
-  <img src="https://www.shutterstock.com/image-photo/hooded-hackers-army-1350292424" width="100%">
+  <img src="https://tryhackme-images.s3.amazonaws.com/user-uploads/5f04259cf9bf5b57aed2c476/room-content/ace5bb9cb9c1120a09d88620adb2976b.png" width="100%">
 </div>
 
 <!-- Your Animated GIF -->
