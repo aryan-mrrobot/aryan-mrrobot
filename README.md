@@ -1,7 +1,5 @@
 <!-- Your Banner -->
-<div align="center">
-  <img src="https://tryhackme-images.s3.amazonaws.com/user-uploads/5f04259cf9bf5b57aed2c476/room-content/ace5bb9cb9c1120a09d88620adb2976b.png" width="100%">
-</div>
+[![masterHead]([https://www.digitalsolutionservices.com/img/services/web%20development.gif](https://tryhackme-images.s3.amazonaws.com/user-uploads/5f04259cf9bf5b57aed2c476/room-content/ace5bb9cb9c1120a09d88620adb2976b.png))]
 
 <!-- Your Animated GIF -->
 <div align="center">
