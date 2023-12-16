@@ -1,5 +1,5 @@
 
-<img align = "right" alt = "Hacking" width = "400" src = "https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?size=626&ext=jpg">
+<img align = "right" alt = "Hacking" width = "400" src = "https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg?size=626&ext=jpg">
 # Hello, I'm Aryan Rohit 👋
 
 ## 🚀 About Me
