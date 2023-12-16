@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
+[![MasterHead](https://media3.giphy.com/media/Ws6T5PN7wHv3cY8xy8/200w.webp?cid=ecf05e470clg5j15rqo98mie2d6kqyjw1cq4ni5dsr1p4063&ep=v1_gifs_search&rid=200w.webp&ct=g)]
 <img align = "right" alt = "Hacking" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 # Hello, I'm Aryan Rohit 👋
 
@@ -19,7 +19,7 @@ I am an ethical hacker and bug bounty hunter based in India. Passionate about cy
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
 
 ## 🛠️ Skills
 
