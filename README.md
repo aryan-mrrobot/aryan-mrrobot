@@ -78,9 +78,8 @@ Technology has always been a fascination of mine, and I’m on a relentless ques
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
 
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryandevil1&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/aryandevil1/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=aryandevil1&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
-<p align="left"><a href="https://github.com/aryandevil1/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryandevil1&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" /></a></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aryan-mrrobot" alt="GitHub Streak" /></a>
+<p align="left"><a href="https://github.com/aryandevil1/github-readme-stats"></a></p>
 
 <br><br>
 
